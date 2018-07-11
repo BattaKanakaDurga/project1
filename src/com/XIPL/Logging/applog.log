@@ -1,0 +1,130 @@
+2018-07-11 17:09:30,673 - rootLogger - INFO - All Excel Files Initialised successfully.
+2018-07-11 17:09:30,675 - rootLogger - INFO - Param.properties file loaded successfully.
+2018-07-11 17:09:49,196 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2018-07-11 17:09:50,045 - rootLogger - INFO - WebBrowser is instantiated
+2018-07-11 17:09:56,281 - rootLogger - INFO - WebBrowser is Launched
+2018-07-11 17:09:57,371 - rootLogger - INFO - Launch Password  Value Entered
+2018-07-11 17:10:05,672 - rootLogger - INFO - Clicked on Submt button
+2018-07-11 17:10:06,220 - rootLogger - INFO - Clicked on SignIn button
+2018-07-11 17:10:17,938 - rootLogger - INFO - User Name  Value Entered
+2018-07-11 17:10:19,954 - rootLogger - INFO - Password  Value Entered
+2018-07-11 17:10:20,449 - rootLogger - INFO - Clicked on Signn Button
+2018-07-11 17:10:30,397 - rootLogger - INFO - Clicked on Get a Quote Button at Home Page
+2018-07-11 17:10:30,398 - rootLogger - INFO - Clicked on Get A New Quote Button
+2018-07-11 17:10:34,072 - rootLogger - INFO - Select Prod 1
+2018-07-11 17:10:36,605 - rootLogger - INFO - Practice State Value Florida Selected Sucessfully
+2018-07-11 17:10:38,096 - rootLogger - INFO - Field_Of_Profession Value Nurse Practitioner Selected Sucessfully
+2018-07-11 17:10:39,442 - rootLogger - INFO - Area_Of_Speciality Value Acute Critical Care Selected Sucessfully
+2018-07-11 17:10:40,975 - rootLogger - INFO - Employment_Status Value Student Selected Sucessfully
+2018-07-11 17:10:41,908 - rootLogger - INFO - Enter_the_School_name  Value Entered
+2018-07-11 17:10:42,652 - rootLogger - INFO - Anticipated_Month Value June Selected Sucessfully
+2018-07-11 17:10:43,522 - rootLogger - INFO - Anticipated_Year  Value Entered
+2018-07-11 17:10:44,316 - rootLogger - INFO - Effective_Date  Value Entered
+2018-07-11 17:10:45,008 - rootLogger - INFO - Buying for Self
+2018-07-11 17:10:45,536 - rootLogger - INFO - Clicked on Get_My_Quote_Button
+2018-07-11 17:10:48,456 - rootLogger - INFO - Clicked on Click_on_BuyNow_Button
+2018-07-11 17:10:51,130 - rootLogger - INFO - User_Name  Value Entered
+2018-07-11 17:10:51,986 - rootLogger - INFO - Last_Name  Value Entered
+2018-07-11 17:10:54,581 - rootLogger - INFO - Street_Address  Value Entered
+2018-07-11 17:10:55,830 - rootLogger - INFO - City_Nmae  Value Entered
+2018-07-11 17:10:56,232 - rootLogger - INFO - State_name Value AZ Selected Sucessfully
+2018-07-11 17:10:57,481 - rootLogger - INFO - Zip_Code  Value Entered
+2018-07-11 17:10:59,202 - rootLogger - INFO - Clicked on Click_on_I_Agree_to_the_Terms_&_Conditions_Box
+2018-07-11 17:10:59,865 - rootLogger - INFO - Clicked on Click_on_Enter_Payment_Information_Button
+2018-07-11 17:11:02,563 - rootLogger - INFO - Card_Number  Value Entered
+2018-07-11 17:11:04,204 - rootLogger - INFO - Cvv_Number  Value Entered
+2018-07-11 17:11:05,203 - rootLogger - INFO - Expiration_Date  Value Entered
+2018-07-11 17:11:06,133 - rootLogger - INFO - Card_Holder_First_Name  Value Entered
+2018-07-11 17:11:07,127 - rootLogger - INFO - Card_Holder_Last_Name  Value Entered
+2018-07-11 17:11:08,104 - rootLogger - INFO - Street_Address  Value Entered
+2018-07-11 17:11:09,607 - rootLogger - INFO - City_Name  Value Entered
+2018-07-11 17:11:10,599 - rootLogger - INFO - State_Name Value MA Selected Sucessfully
+2018-07-11 17:11:11,668 - rootLogger - INFO - ZipCode  Value Entered
+2018-07-11 17:11:12,450 - rootLogger - INFO - Clicked on Click_on_Buy_policy
+2018-07-11 17:11:16,802 - rootLogger - INFO - Clicked on Click_on_Buy_Policy_in_Alert_Button
+2018-07-11 17:11:24,645 - rootLogger - INFO - Clicked on Download Policy Documents button 
+2018-07-11 17:11:34,951 - rootLogger - INFO - Policy Number Captured
+2018-07-11 17:11:34,952 - rootLogger - INFO - Generated PolicyNumber - 47-QAA-004456-01
+2018-07-11 17:11:56,680 - rootLogger - INFO - Clicked on Sign Out
+2018-07-11 17:12:27,726 - rootLogger - INFO - Clicked on SignIn button
+2018-07-11 17:12:35,920 - rootLogger - INFO - User Name  Value Entered
+2018-07-11 17:12:36,885 - rootLogger - INFO - Password  Value Entered
+2018-07-11 17:12:37,568 - rootLogger - INFO - Clicked on Signn Button
+2018-07-11 17:12:48,787 - rootLogger - INFO - Clicked on Get a Quote Button at Home Page
+2018-07-11 17:12:48,788 - rootLogger - INFO - Clicked on Get A New Quote Button
+2018-07-11 17:12:52,679 - rootLogger - INFO - Select Prod 1
+2018-07-11 17:12:55,044 - rootLogger - INFO - Practice State Value Florida Selected Sucessfully
+2018-07-11 17:12:56,563 - rootLogger - INFO - Field_Of_Profession Value Nurse Practitioner Selected Sucessfully
+2018-07-11 17:12:58,423 - rootLogger - INFO - Area_Of_Speciality Value Acute Critical Care Selected Sucessfully
+2018-07-11 17:13:00,141 - rootLogger - INFO - Employment_Status Value Student Selected Sucessfully
+2018-07-11 17:13:01,271 - rootLogger - INFO - Enter_the_School_name  Value Entered
+2018-07-11 17:13:02,212 - rootLogger - INFO - Anticipated_Month Value June Selected Sucessfully
+2018-07-11 17:13:03,392 - rootLogger - INFO - Anticipated_Year  Value Entered
+2018-07-11 17:13:04,410 - rootLogger - INFO - Effective_Date  Value Entered
+2018-07-11 17:13:05,034 - rootLogger - INFO - Buying for Self
+2018-07-11 17:13:05,737 - rootLogger - INFO - Clicked on Get_My_Quote_Button
+2018-07-11 17:13:08,520 - rootLogger - INFO - Clicked on Click_on_BuyNow_Button
+2018-07-11 17:13:11,099 - rootLogger - INFO - User_Name  Value Entered
+2018-07-11 17:13:12,137 - rootLogger - INFO - Last_Name  Value Entered
+2018-07-11 17:13:13,449 - rootLogger - INFO - Street_Address  Value Entered
+2018-07-11 17:13:14,757 - rootLogger - INFO - City_Nmae  Value Entered
+2018-07-11 17:13:15,250 - rootLogger - INFO - State_name Value AZ Selected Sucessfully
+2018-07-11 17:13:16,866 - rootLogger - INFO - Zip_Code  Value Entered
+2018-07-11 17:13:18,322 - rootLogger - INFO - Clicked on Click_on_I_Agree_to_the_Terms_&_Conditions_Box
+2018-07-11 17:13:19,084 - rootLogger - INFO - Clicked on Click_on_Enter_Payment_Information_Button
+2018-07-11 17:13:21,794 - rootLogger - INFO - Card_Number  Value Entered
+2018-07-11 17:13:23,176 - rootLogger - INFO - Cvv_Number  Value Entered
+2018-07-11 17:13:24,267 - rootLogger - INFO - Expiration_Date  Value Entered
+2018-07-11 17:13:25,391 - rootLogger - INFO - Card_Holder_First_Name  Value Entered
+2018-07-11 17:13:26,668 - rootLogger - INFO - Card_Holder_Last_Name  Value Entered
+2018-07-11 17:13:27,795 - rootLogger - INFO - Street_Address  Value Entered
+2018-07-11 17:13:29,001 - rootLogger - INFO - City_Name  Value Entered
+2018-07-11 17:13:30,151 - rootLogger - INFO - State_Name Value MA Selected Sucessfully
+2018-07-11 17:13:31,542 - rootLogger - INFO - ZipCode  Value Entered
+2018-07-11 17:13:32,409 - rootLogger - INFO - Clicked on Click_on_Buy_policy
+2018-07-11 17:13:34,849 - rootLogger - INFO - Clicked on Click_on_Buy_Policy_in_Alert_Button
+2018-07-11 17:13:43,164 - rootLogger - INFO - Clicked on Download Policy Documents button 
+2018-07-11 17:13:53,436 - rootLogger - INFO - Policy Number Captured
+2018-07-11 17:13:53,436 - rootLogger - INFO - Generated PolicyNumber - 47-QAA-004457-01
+2018-07-11 17:14:14,960 - rootLogger - INFO - Clicked on Sign Out
+2018-07-11 17:14:45,690 - rootLogger - INFO - Clicked on SignIn button
+2018-07-11 17:14:53,395 - rootLogger - INFO - User Name  Value Entered
+2018-07-11 17:14:54,495 - rootLogger - INFO - Password  Value Entered
+2018-07-11 17:14:55,285 - rootLogger - INFO - Clicked on Signn Button
+2018-07-11 17:15:06,362 - rootLogger - INFO - Clicked on Get a Quote Button at Home Page
+2018-07-11 17:15:06,362 - rootLogger - INFO - Clicked on Get A New Quote Button
+2018-07-11 17:15:10,653 - rootLogger - INFO - Select Prod 1
+2018-07-11 17:15:13,442 - rootLogger - INFO - Practice State Value Florida Selected Sucessfully
+2018-07-11 17:15:14,893 - rootLogger - INFO - Field_Of_Profession Value Audiology, Speech and Hearing Selected Sucessfully
+2018-07-11 17:15:16,584 - rootLogger - INFO - Area_Of_Speciality Value Audiology Technician/Technologist Selected Sucessfully
+2018-07-11 17:15:18,490 - rootLogger - INFO - Employment_Status Value Self-Employed Selected Sucessfully
+2018-07-11 17:15:19,590 - rootLogger - INFO - Clicked on MalPractice_as_No
+2018-07-11 17:15:20,713 - rootLogger - INFO - Effective_Date  Value Entered
+2018-07-11 17:15:21,400 - rootLogger - INFO - Buying for Self
+2018-07-11 17:15:22,271 - rootLogger - INFO - Clicked on Get_My_Quote_Button
+2018-07-11 17:15:45,414 - rootLogger - INFO - Clicked on Add_Medical_&_Medical_Reimbursement?_Set_to_Yes:
+2018-07-11 17:15:46,231 - rootLogger - INFO - Clicked on Click_on_BuyNow_Button
+2018-07-11 17:15:49,012 - rootLogger - INFO - User_Name  Value Entered
+2018-07-11 17:15:50,447 - rootLogger - INFO - Last_Name  Value Entered
+2018-07-11 17:15:51,741 - rootLogger - INFO - Business_Name  Value Entered
+2018-07-11 17:15:52,874 - rootLogger - INFO - Street_Address  Value Entered
+2018-07-11 17:15:54,107 - rootLogger - INFO - City_Nmae  Value Entered
+2018-07-11 17:15:54,642 - rootLogger - INFO - State_name Value AZ Selected Sucessfully
+2018-07-11 17:15:56,130 - rootLogger - INFO - Zip_Code  Value Entered
+2018-07-11 17:15:57,898 - rootLogger - INFO - Clicked on Click_on_I_Agree_to_the_Terms_&_Conditions_Box
+2018-07-11 17:15:58,725 - rootLogger - INFO - Clicked on Click_on_Enter_Payment_Information_Button
+2018-07-11 17:16:01,097 - rootLogger - INFO - Card_Number  Value Entered
+2018-07-11 17:16:02,749 - rootLogger - INFO - Cvv_Number  Value Entered
+2018-07-11 17:16:03,894 - rootLogger - INFO - Expiration_Date  Value Entered
+2018-07-11 17:16:05,089 - rootLogger - INFO - Card_Holder_First_Name  Value Entered
+2018-07-11 17:16:06,244 - rootLogger - INFO - Card_Holder_Last_Name  Value Entered
+2018-07-11 17:16:07,448 - rootLogger - INFO - Street_Address  Value Entered
+2018-07-11 17:16:09,006 - rootLogger - INFO - City_Name  Value Entered
+2018-07-11 17:16:10,192 - rootLogger - INFO - State_Name Value MA Selected Sucessfully
+2018-07-11 17:16:11,508 - rootLogger - INFO - ZipCode  Value Entered
+2018-07-11 17:16:12,577 - rootLogger - INFO - Clicked on Click_on_Buy_policy
+2018-07-11 17:16:15,758 - rootLogger - INFO - Clicked on Click_on_Buy_Policy_in_Alert_Button
+2018-07-11 17:16:24,124 - rootLogger - INFO - Clicked on Download Policy Documents button 
+2018-07-11 17:16:34,645 - rootLogger - INFO - Policy Number Captured
+2018-07-11 17:16:34,646 - rootLogger - INFO - Generated PolicyNumber - 47-QAA-004458-01
+2018-07-11 17:16:56,178 - rootLogger - INFO - Clicked on Sign Out

@@ -1,0 +1,39 @@
+2018-07-09 18:11:12,857 - rootLogger - INFO - All Excel Files Initialised successfully.
+2018-07-09 18:11:12,858 - rootLogger - INFO - Param.properties file loaded successfully.
+2018-07-09 18:11:31,484 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2018-07-09 18:11:31,805 - rootLogger - INFO - WebBrowser is instantiated
+2018-07-09 18:11:33,929 - rootLogger - INFO - WebBrowser is Launched
+2018-07-09 18:11:35,559 - rootLogger - INFO - Launch Password  Value Entered
+2018-07-09 18:11:41,703 - rootLogger - INFO - Clicked on Submt button
+2018-07-09 18:11:42,388 - rootLogger - INFO - Clicked on Get a Quote Button at Home Page
+2018-07-09 18:11:54,291 - rootLogger - INFO - Select Prod 1
+2018-07-09 18:11:56,902 - rootLogger - INFO - Practice State Value Florida Selected Sucessfully
+2018-07-09 18:11:58,345 - rootLogger - INFO - Field_Of_Profession Value Audiology, Speech and Hearing Selected Sucessfully
+2018-07-09 18:11:59,765 - rootLogger - INFO - Area_Of_Speciality Value Audiology Technician/Technologist Selected Sucessfully
+2018-07-09 18:12:01,447 - rootLogger - INFO - Employment_Status Value Employed Selected Sucessfully
+2018-07-09 18:12:02,822 - rootLogger - INFO - Clicked on MalPractice_as_No
+2018-07-09 18:12:03,756 - rootLogger - INFO - Effective_Date  Value Entered
+2018-07-09 18:12:05,956 - rootLogger - INFO - Email ID  Value Entered
+2018-07-09 18:12:06,406 - rootLogger - INFO - Buying for Self
+2018-07-09 18:12:06,966 - rootLogger - INFO - Clicked on Get_My_Quote_Button
+2018-07-09 18:12:09,669 - rootLogger - INFO - Clicked on Save Quote Button
+2018-07-09 18:12:12,197 - rootLogger - INFO - Email Id  Value Entered
+2018-07-09 18:12:13,377 - rootLogger - INFO - Confirm Email Id  Value Entered
+2018-07-09 18:12:14,610 - rootLogger - INFO - Password  Value Entered
+2018-07-09 18:12:15,391 - rootLogger - INFO - Confirm Password  Value Entered
+2018-07-09 18:12:17,986 - rootLogger - INFO - Clicked on Create Account Button.
+2018-07-09 18:12:19,060 - rootLogger - INFO - Clicked on Ok Button
+2018-07-09 18:12:39,464 - rootLogger - INFO - In click arguments[0].setAttribute is not a function
+Command duration or timeout: 201 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:09'
+System info: host: 'DESKTOP-KALBFJ4', ip: '10.76.32.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2dae219f-8df2-4a89-8d2b-133438ef9b75
+2018-07-09 18:13:00,070 - rootLogger - INFO - In click arguments[0] is null
+Command duration or timeout: 112 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:09'
+System info: host: 'DESKTOP-KALBFJ4', ip: '10.76.32.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2dae219f-8df2-4a89-8d2b-133438ef9b75
